@@ -11,4 +11,6 @@ export class ArticleComponent {
   content: string = "Some content should probably go here"
 
   isTechRelated: boolean = true
+
+
 }
